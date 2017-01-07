@@ -1,0 +1,304 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Meghan + Johnny</title>
+    <meta name="description" content="Website for wedding of Meghan O'Beirne and Johnny Richardson."/>
+    <meta name="description" content="">
+    <meta name="author" content="Johnny Richardson">
+    <link rel="icon" href="../../favicon.ico">
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+
+    <!-- Custom styles for this template -->
+    <link href="https://v4-alpha.getbootstrap.com/examples/navbar-top-fixed/navbar-top-fixed.css" rel="stylesheet">
+    <style>
+      #map {
+        width: 100%;
+        height: 400px;
+        background-color: grey;
+      }
+    </style>
+  </head>
+
+  <body>
+
+    <nav class="navbar navbar-toggleable-md navbar-inverse fixed-top">
+{{!--       <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button> --}}
+      <h1>Meghan + Johnny</h1>
+      <div class="collapse navbar-collapse" id="navbarCollapse">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item">
+            <a class="nav-link" data-scroll href="#details">details <span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" data-scroll href="#travel">travel</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" data-scroll href="#rsvp">rsvp</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+    
+    <div class="container">
+      <div id="date">
+        <img src="images/top.jpg" />
+        <div class="right">OCTOBER 21, 2017<br />BOSTON, MASS</div>
+      </div>
+
+      <header class="clearfix" id="details">
+        DETAILS
+      </header> 
+      <div class="main">
+        <section>
+          Our wedding will take place in Boston on Saturday, October 21, 2017 at <a href="http://www.stceciliaboston.org">St. Cecilia's Parish</a> at 1pm, with a cocktail reception to follow at a TBA venue. Transportation will be provided to and from our reception.
+          <p>St. Cecilia's is located in Boston's bustling Back Bay neighborhood, and is within walking distance of numerous transit options.</p>
+          <div id="map"></div>
+        </section>
+      </div>
+
+      <header class="clearfix" id="travel">
+        TRAVEL + HOTEL
+      </header> 
+      <div class="main">
+        <section>
+          <p><em>For those flying to Boston</em>: the quickest way into the city from Logan Airport (besides taxi) is to take the <a href="https://www.massport.com/logan-airport/to-and-from-logan/logan-express/back-bay/">Logan Express to Back Bay</a>. Otherwise, you can take the Silver Line for free to South Station, and from there take the Red Line almost anywhere via transfer options to all lines.</p>
+          <em>Accomodation:</em> Boston is not known to be inexpensive, and the hotels in the immediate vicinity of our ceremony are no exception. That being said, you'll find reasonably-priced accomodation throughout the greater metro area. Several recommended hotels include <a href="https://gc.synxis.com/rez.aspx?chain=5433&hotel=56668&_ga=1.73938906.951254481.1483069607">Revere Boston</a>, <a href="https://bookings.ihotelier.com/Newbury-Guest-House/select_rooms.jsp;jsessionid=06C56AA349907051AFE7902C94F21F02?hotelId=3803&urlredirect=yes&y=4&x=19">Newbury Guest House</a>, <a href="http://www.theamoryhouse.com/">Amory Guest House</a>, and <a href="http://www.starwoodhotels.com/whotels/property/overview/index.html?propertyID=1787&language=en_US">The W Boston</a> (our personal favorite). There are also countless options available on <a href="https://www.airbnb.com/s/Boston--MA--United-States?adults=4&checkin=10%2F20%2F2017&checkout=10%2F22%2F2017&children=0&guests=4&infants=0&room_types%5B%5D=Entire%20home%2Fapt&room_types%5B%5D=Private%20room&source=bb&ss_id=h69w4l7z&ss_preload=false&allow_override%5B%5D=&page=1&s_tag=cH1GGx0F">Airbnb</a>, many of them considerably more affordable. 
+          </ul>
+        </section>
+      </div>
+
+      <header class="clearfix" id="rsvp">
+        RSVP
+      </header> 
+      <div class="main">
+        <section>
+          Come back after you receive our formal invite!
+          {{!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScU0G98ci4mhZNy5K8QMwWmRkocWAsuix6_jgdUQB8trJ3OjA/viewform?embedded=true" width="500" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe> --}}
+        </section>
+      </div>
+    </div>
+  <script type="text/javascript">
+    function initMap() {
+      var myStyle = [
+        {
+          "elementType": "geometry",
+          "stylers": [
+            {
+              "color": "#f5f5f5"
+            }
+          ]
+        },
+        {
+          "elementType": "labels.icon",
+          "stylers": [
+            {
+              "visibility": "off"
+            }
+          ]
+        },
+        {
+          "elementType": "labels.text.fill",
+          "stylers": [
+            {
+              "color": "#616161"
+            }
+          ]
+        },
+        {
+          "elementType": "labels.text.stroke",
+          "stylers": [
+            {
+              "color": "#f5f5f5"
+            }
+          ]
+        },
+        {
+          "featureType": "administrative.land_parcel",
+          "elementType": "labels.text.fill",
+          "stylers": [
+            {
+              "color": "#bdbdbd"
+            }
+          ]
+        },
+        {
+          "featureType": "poi",
+          "elementType": "geometry",
+          "stylers": [
+            {
+              "color": "#eeeeee"
+            }
+          ]
+        },
+        {
+          "featureType": "poi",
+          "elementType": "labels.text.fill",
+          "stylers": [
+            {
+              "color": "#757575"
+            }
+          ]
+        },
+        {
+          "featureType": "poi.park",
+          "elementType": "geometry",
+          "stylers": [
+            {
+              "color": "#e5e5e5"
+            }
+          ]
+        },
+        {
+          "featureType": "poi.park",
+          "elementType": "labels.text.fill",
+          "stylers": [
+            {
+              "color": "#9e9e9e"
+            }
+          ]
+        },
+        {
+          "featureType": "road",
+          "elementType": "geometry",
+          "stylers": [
+            {
+              "color": "#ffffff"
+            }
+          ]
+        },
+        {
+          "featureType": "road.arterial",
+          "elementType": "labels.text.fill",
+          "stylers": [
+            {
+              "color": "#757575"
+            }
+          ]
+        },
+        {
+          "featureType": "road.highway",
+          "elementType": "geometry",
+          "stylers": [
+            {
+              "color": "#dadada"
+            }
+          ]
+        },
+        {
+          "featureType": "road.highway",
+          "elementType": "labels.text.fill",
+          "stylers": [
+            {
+              "color": "#616161"
+            }
+          ]
+        },
+        {
+          "featureType": "road.local",
+          "elementType": "labels.text.fill",
+          "stylers": [
+            {
+              "color": "#9e9e9e"
+            }
+          ]
+        },
+        {
+          "featureType": "transit.line",
+          "elementType": "geometry",
+          "stylers": [
+            {
+              "color": "#e5e5e5"
+            }
+          ]
+        },
+        {
+          "featureType": "transit.station",
+          "elementType": "geometry",
+          "stylers": [
+            {
+              "color": "#eeeeee"
+            }
+          ]
+        },
+        {
+          "featureType": "water",
+          "elementType": "geometry",
+          "stylers": [
+            {
+              "color": "#c9c9c9"
+            }
+          ]
+        },
+        {
+          "featureType": "water",
+          "elementType": "labels.text.fill",
+          "stylers": [
+            {
+              "color": "#9e9e9e"
+            }
+          ]
+        }
+      ];
+      var ceremonyLoc = {lat: 42.346602, lng: -71.088498};
+      // var recepLoc = {lat: 42.3499807, lng: -71.050809};
+      var map = new google.maps.Map(document.getElementById('map'), {
+        mapTypeControlOptions: {
+          mapTypeIds: ['mystyle']
+        },
+        zoom: 15,
+        center: {lat:42.3467319,lng:-71.0878662},
+        mapTypeId: 'mystyle'
+      });
+      map.mapTypes.set('mystyle', new google.maps.StyledMapType(myStyle, { name: 'Default' }));
+      new google.maps.Marker({
+        position: ceremonyLoc,
+        map: map,
+        title: 'St. Cecilia\'s Parish',
+        icon: 'images/church.png'
+      });
+      // new google.maps.Marker({
+      //   position: recepLoc,
+      //   map: map,
+      //   icon: 'images/cocktail.png'
+      // });
+    }
+  </script>
+  <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDpld-fPdKzewfh1DkhLpnC_June5tBoII&callback=initMap">
+    </script>
+  <script
+    src="https://code.jquery.com/jquery-3.1.1.min.js"
+    integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+    crossorigin="anonymous"></script>
+  <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+  <script src="js/smooth-scroll.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+  <script type="text/javascript">
+    smoothScroll.init();
+    $(window).scroll(function() {
+      /*      var scroll_top = $(document).scrollTop();
+            var div_one_top = $('#details').position().top;
+            var div_two_top = $('#travel').position().top;
+
+          if(scroll_top > div_one_top && scroll_top < div_two_top)
+            $('nav a[href="#details"]').addClass('active')
+          else if( scroll_top > div_two_top)
+            $('nav a[href="#travel"]').addClass('active')*/
+
+      if ($(document).scrollTop() > 50) {
+        $('nav').addClass('shrink');
+      } else {
+        $('nav').removeClass('shrink');
+      }
+    });
+  </script>
+  </body>
+</html>

@@ -1,0 +1,1958 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mys",
+				"mystyle"
+			],
+			[
+				"ce",
+				"ceremonyLoc"
+			],
+			[
+				"recep",
+				"recepLoc"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"resul",
+				"resultTOC"
+			],
+			[
+				"gudie",
+				"guide_key"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"sens",
+				"sensorsOverallStatus"
+			],
+			[
+				"saveData",
+				"saveDataInterval"
+			],
+			[
+				"serialn",
+				"serialno"
+			],
+			[
+				"crr",
+				"currentDateTime"
+			],
+			[
+				"eco",
+				"echo"
+			],
+			[
+				"sk",
+				"sketchpid"
+			],
+			[
+				"unic",
+				"unicef_startup"
+			],
+			[
+				"timele",
+				"timeLeft"
+			],
+			[
+				"_",
+				"_APP_TIMEOUT"
+			],
+			[
+				"dashind",
+				"dashIndex3"
+			],
+			[
+				"dashInd",
+				"dashIndex2"
+			],
+			[
+				"orienta",
+				"orientationAvg"
+			],
+			[
+				"pitch",
+				"pitch"
+			],
+			[
+				"even",
+				"eventId"
+			],
+			[
+				"sd",
+				"SD"
+			],
+			[
+				"pit",
+				"pitch"
+			],
+			[
+				"prit",
+				"println"
+			],
+			[
+				"print",
+				"println"
+			],
+			[
+				"get",
+				"getBasePitch"
+			],
+			[
+				"event",
+				"eventDuration"
+			],
+			[
+				"eve",
+				"eventDuration"
+			],
+			[
+				"time",
+				"timestampS"
+			],
+			[
+				"z",
+				"zAcceleroValue"
+			],
+			[
+				"ses",
+				"sensor-fusion"
+			],
+			[
+				"fni",
+				"finishedPlayerIds"
+			],
+			[
+				"_cu",
+				"_current_players"
+			],
+			[
+				"cre",
+				"creatorWrapper"
+			],
+			[
+				"PLayeer",
+				"PlayerRemove"
+			],
+			[
+				"_obj",
+				"_objLastTemplate"
+			],
+			[
+				"data",
+				"dataType"
+			],
+			[
+				"keys",
+				"keystoneInst"
+			],
+			[
+				"exp",
+				"express"
+			],
+			[
+				"categor",
+				"categories"
+			],
+			[
+				"color",
+				"color-peach"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"overlf",
+				"overflow-x"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"mob",
+				"mobile-landscape-and-up"
+			],
+			[
+				"mobil",
+				"mobile-landscape-and-up"
+			],
+			[
+				"table",
+				"tablet-landscape-and-up"
+			],
+			[
+				"game",
+				"game-logo"
+			],
+			[
+				"colm",
+				"col-sm-12"
+			],
+			[
+				"col-sm",
+				"col-sm-12"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"color-",
+				"color-teal"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"st",
+				"step-four"
+			],
+			[
+				"mobi",
+				"mobile-landscape-and-below"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"mq-de",
+				"mq-desktop-x-wide"
+			],
+			[
+				"ac",
+				"active"
+			],
+			[
+				"vo",
+				"voting-button"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"ne",
+				"next"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"pla",
+				"play"
+			],
+			[
+				"hid",
+				"hidden-el"
+			],
+			[
+				"games",
+				"gameSession"
+			],
+			[
+				"top",
+				"topicIds"
+			],
+			[
+				"content",
+				"contentCategories"
+			],
+			[
+				"sess",
+				"sessionType"
+			],
+			[
+				"view",
+				"viewType"
+			],
+			[
+				"th",
+				"threeLetter"
+			],
+			[
+				"fade",
+				"fadeIn"
+			],
+			[
+				"em",
+				"emit"
+			],
+			[
+				"winne",
+				"winners-circle-header"
+			],
+			[
+				"resu",
+				"results-header"
+			],
+			[
+				"winn",
+				"winners-circle-header"
+			],
+			[
+				"winer",
+				"winners-header"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"access",
+				"accessCode"
+			],
+			[
+				"nosle",
+				"noSleeping"
+			],
+			[
+				"re",
+				"ready"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"sock",
+				"socket"
+			],
+			[
+				"voting",
+				"votingCountdown"
+			],
+			[
+				"pl",
+				"player_name"
+			],
+			[
+				"err",
+				"errorBox"
+			],
+			[
+				"tetx",
+				"text-align"
+			],
+			[
+				"TIme",
+				"TimelineLite"
+			],
+			[
+				"las",
+				"lastY"
+			],
+			[
+				"g",
+				"game-code"
+			],
+			[
+				"this",
+				"thisPlayerProgress"
+			],
+			[
+				"THispl",
+				"thisPlayerProgress"
+			],
+			[
+				"secon",
+				"secondRow"
+			],
+			[
+				"odd",
+				"oddRow"
+			],
+			[
+				"submitte",
+				"submitterId"
+			],
+			[
+				"meme",
+				"meme-canvas"
+			],
+			[
+				"ad",
+				"addClass"
+			],
+			[
+				"gor",
+				"group_id"
+			],
+			[
+				"countdown",
+				"countdownName"
+			],
+			[
+				"paus",
+				"pauseAnimate"
+			],
+			[
+				"Sess",
+				"Session"
+			],
+			[
+				"Session",
+				"SessionManager"
+			],
+			[
+				"at",
+				"articleTitle"
+			],
+			[
+				"Twee",
+				"TweenLite"
+			],
+			[
+				"text",
+				"textType"
+			],
+			[
+				"btn",
+				"btn_ok"
+			],
+			[
+				"fad",
+				"fadeIn"
+			],
+			[
+				"clco",
+				"clockHand"
+			],
+			[
+				"sho",
+				"showing"
+			],
+			[
+				"ove",
+				"overflow-y"
+			],
+			[
+				"eas",
+				"easeOut"
+			],
+			[
+				"auto",
+				"autoAlpha"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"remov",
+				"removeDom"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"loa",
+				"loadToggle"
+			],
+			[
+				"Im",
+				"Impact-External"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"low",
+				"lowerText"
+			],
+			[
+				"upp",
+				"upperText"
+			],
+			[
+				"to",
+				"toUpperCase"
+			],
+			[
+				"lower",
+				"lowerCaption"
+			],
+			[
+				"upper",
+				"upperCaption"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "public/stylesheets/style.sass",
+			"settings":
+			{
+				"buffer_size": 3767,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/stylesheets/components.sass",
+			"settings":
+			{
+				"buffer_size": 1681,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/index.hbs",
+			"settings":
+			{
+				"buffer_size": 7877,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/stylesheets/nav.scss",
+			"settings":
+			{
+				"buffer_size": 454,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "@media screen and (max-width: 768px) {"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "package cont",
+		"selected_items":
+		[
+			[
+				"package cont",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sas",
+				"SassBeautify"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"reso",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"PackageResourceViewer",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"jsli",
+				"JSLint"
+			],
+			[
+				"beautif",
+				"Javascript Beautify"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"markd",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package contr",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"c",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"theme",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"packae",
+				"Package Control: Disable Package"
+			],
+			[
+				"omnisharp",
+				"OmniSharpSublime: Remove From Project"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"jso",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"pscka",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 475.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Johnny/Dropbox/wedding-website",
+		"/Users/Johnny/Dropbox/wedding-website/public",
+		"/Users/Johnny/Dropbox/wedding-website/public/js",
+		"/Users/Johnny/Dropbox/wedding-website/public/stylesheets",
+		"/Users/Johnny/Dropbox/wedding-website/routes",
+		"/Users/Johnny/Dropbox/wedding-website/views"
+	],
+	"file_history":
+	[
+		"/Users/Johnny/Dropbox/wedding-website/public/stylesheets/components.sass",
+		"/Users/Johnny/Dropbox/wedding-website/public/js/main.js",
+		"/Users/Johnny/Dropbox/wedding-website/public/stylesheets/mixins.scss",
+		"/Users/Johnny/Dropbox/wedding-website/site.sublime-project",
+		"/Users/Johnny/Dropbox/test/views/error.hbs",
+		"/Users/Johnny/Dropbox/wedding-website/views/error.hbs",
+		"/Users/Johnny/Downloads/AnimatedHeader/index.html",
+		"/Users/Johnny/Dropbox/wedding-website/package.json",
+		"/Users/Johnny/Dropbox/wedding-website/.nvmrc",
+		"/Users/Johnny/Dropbox/wedding-website/public/stylesheets/style.css",
+		"/Users/Johnny/Dropbox/wedding-website/Gruntfile.js",
+		"/Users/Johnny/Dropbox/wedding-website/routes/index.js",
+		"/Users/Johnny/Dropbox/wedding-website/app.js",
+		"/Users/Johnny/Downloads/AnimatedHeader/css/component.css",
+		"/Users/Johnny/Downloads/AnimatedHeader/css/default.css",
+		"/Users/Johnny/Documents/Projects/city-accelerator-website/templates/views/toolkit.hbs",
+		"/Users/Johnny/Documents/Projects/city-accelerator-website/templates/partials/components/tool/card-mini.hbs",
+		"/Users/Johnny/Documents/Projects/city-accelerator-website/models/Partner.js",
+		"/Users/Johnny/Documents/Projects/city-accelerator-website/models/Activity.js",
+		"/Users/Johnny/Documents/Projects/city-accelerator-website/templates/partials/components/tool/modal.hbs",
+		"/Users/Johnny/Documents/Projects/city-accelerator-website/templates/partials/components/tool/card-intro.hbs",
+		"/Users/Johnny/Documents/Projects/city-accelerator-website/templates/views/guideHome.hbs",
+		"/Users/Johnny/Documents/Projects/city-accelerator-website/templates/partials/script/production.hbs",
+		"/Users/Johnny/Documents/Projects/city-accelerator-website/templates/layouts/base.hbs",
+		"/Users/Johnny/Documents/Projects/city-accelerator-website/templates/views/caseStudy.hbs",
+		"/Users/Johnny/Documents/Projects/city-accelerator-website/templates/partials/script/development.hbs",
+		"/Users/Johnny/Documents/Projects/city-accelerator-website/templates/partials/toolkitSidebar.hbs",
+		"/Users/Johnny/Documents/Projects/city-accelerator-website/public/js/modules/tool.js",
+		"/Users/Johnny/Documents/Projects/city-accelerator-website/models/About.js",
+		"/Users/Johnny/Documents/Projects/city-accelerator-website/routes/views/guidePage.js",
+		"/Users/Johnny/Documents/Projects/city-accelerator-website/routes/views/guideHome.js",
+		"/Users/Johnny/Documents/Projects/city-accelerator-website/routes/views/guidePages.js",
+		"/Users/Johnny/Documents/Projects/city-accelerator-website/templates/partials/guideSidebar.hbs",
+		"/Users/Johnny/Documents/Projects/city-accelerator-website/models/Guide.js",
+		"/Users/Johnny/Documents/Projects/city-accelerator-website/templates/partials/nav.hbs",
+		"/Users/Johnny/Documents/Projects/city-accelerator-website/templates/views/guide-page.hbs",
+		"/Users/Johnny/Documents/Projects/city-accelerator-website/routes/index.js",
+		"/Users/Johnny/Documents/Projects/city-accelerator-website/templates/partials/tool/getting-started/goals.hbs",
+		"/Users/Johnny/Documents/Projects/city-accelerator-website/templates/partials/components/card.hbs",
+		"/Users/Johnny/Documents/Projects/city-accelerator-website/templates/views/guide-single.hbs",
+		"/Users/Johnny/Documents/Projects/city-accelerator-website/routes/views/guideSingle.js",
+		"/Users/Johnny/Documents/Projects/city-accelerator-website/templates/views/game.hbs",
+		"/Users/Johnny/Documents/Projects/city-accelerator-website/templates/partials/tool/mvp/grid.hbs",
+		"/Users/Johnny/Documents/Projects/city-accelerator-website/routes/views/about.js",
+		"/Users/Johnny/Documents/Projects/city-accelerator-website/templates/views/about.hbs",
+		"/Users/Johnny/Documents/Projects/city-accelerator-website/models/_EXAMPLE-MONGO-MODELS.md",
+		"/Users/Johnny/Documents/Projects/city-accelerator-website/templates/views/toolkitHome.hbs",
+		"/Users/Johnny/Documents/Projects/city-accelerator-website/models/Toolkit.js",
+		"/Users/Johnny/Documents/Projects/city-accelerator-website/models/Link.js",
+		"/Users/Johnny/Documents/Projects/starter-module/models/_EXAMPLE-MONGO-MODELS.md",
+		"/Users/Johnny/Documents/Projects/city-accelerator-website/deploy.json",
+		"/Users/Johnny/Documents/Projects/edison-unicef-downloader/views/index.jade",
+		"/Users/Johnny/Documents/Projects/edison-unicef-downloader/index.js",
+		"/Users/Johnny/Documents/Projects/edison-unicef-module-monitoring/app.js",
+		"/Users/Johnny/Documents/Projects/edison-unicef-downloader/routes.js",
+		"/Users/Johnny/Documents/Projects/edison-unicef-module-init/unicefcron",
+		"/Users/Johnny/Documents/Projects/edison-unicef-downloader/views/hardwareStatus.jade",
+		"/Users/Johnny/Documents/Projects/edison-unicef-downloader/public/javascripts/main.js",
+		"/Users/Johnny/Documents/Projects/unicef-ghana-arduino  /scripts/startup.sh",
+		"/Users/Johnny/Documents/Projects/edison-unicef-module-monitoring/package.json",
+		"/Users/Johnny/Documents/Projects/edison-unicef-downloader/log.js",
+		"/Users/Johnny/Documents/Projects/edison-unicef-module-init/scripts/stopWifi.sh",
+		"/Users/Johnny/Documents/Projects/edison-unicef-module-init/unicef-downloader.service",
+		"/Users/Johnny/Documents/Arduino/libraries/Time-master/TimeLib.h",
+		"/Users/Johnny/Documents/Projects/edison-unicef-module-init/scripts/updateRebootCount.sh",
+		"/Users/Johnny/Documents/Projects/unicef-ghana-arduino  /data/12-09-16/startup_log.txt",
+		"/Users/Johnny/Documents/Projects/edison-unicef-module-init/scripts/boot.sh",
+		"/Users/Johnny/Documents/Projects/unicef-ghana-arduino  /maintenance/imu.js",
+		"/Users/Johnny/Documents/Projects/edison-unicef-module-init/scripts/startAp.sh",
+		"/Users/Johnny/Documents/Projects/edison-unicef-module-init/unicef-www-terminal-daemon.service",
+		"/Users/Johnny/Documents/Projects/edison-unicef-module-init/unicef-monitoring-daemon.service",
+		"/Users/Johnny/Documents/Projects/edison-unicef-module-init/init.sh",
+		"/Users/Johnny/Documents/Projects/edison-unicef-module-init/unicef-monitor.service",
+		"/Users/Johnny/Documents/Projects/edison-unicef-project-master/package.json",
+		"/Users/Johnny/Documents/Projects/edison-unicef-module-init/unicef-init.service",
+		"/Users/Johnny/Documents/Projects/edison-unicef-module-init/hostapd.conf",
+		"/Users/Johnny/Documents/Projects/unicef-ghana-arduino  /startup.sh",
+		"/Users/Johnny/Documents/Projects/unicef-ghana-arduino  /setup.sh",
+		"/Users/Johnny/Documents/Projects/edison-unicef-module-init/config.txt",
+		"/Users/Johnny/Documents/Projects/edison-unicef-project-master/public/javascripts/main.js",
+		"/Users/Johnny/Documents/Projects/edison-unicef-project-master/routes.js",
+		"/Users/Johnny/Documents/Projects/edison-unicef-project-master/views/hardwareStatus.jade",
+		"/Users/Johnny/Documents/Arduino/libraries/Adafruit_AHRS-master/Adafruit_Simple_AHRS.cpp",
+		"/Users/Johnny/Documents/Projects/unicef-ghana-arduino  /startup_log.txt",
+		"/Users/Johnny/Documents/Projects/unicef-ghana-arduino  /services/unicef-monitor.service",
+		"/Users/Johnny/Documents/Arduino/libraries/Time-master/examples/TimeArduinoDue/TimeArduinoDue.ino",
+		"/Users/Johnny/Documents/Arduino/libraries/Time-master/Readme.txt",
+		"/Users/Johnny/Documents/Projects/unicef-ghana-arduino  /shutdown.sh",
+		"/Users/Johnny/Documents/Arduino/libraries/Timer-master/Timer.cpp",
+		"/Users/Johnny/Documents/Arduino/libraries/Timer-master/examples/kitchen_sink/kitchen_sink.pde",
+		"/Users/Johnny/Documents/Projects/edison-unicef-module-monitoring/imu.js",
+		"/Users/Johnny/Documents/Arduino/libraries/Timer-master/examples/read_A0_flashLED/read_A0_flashLED.pde",
+		"/Users/Johnny/Documents/Arduino/libraries/Timer-master/examples/blink2/blink2.ino",
+		"/Users/Johnny/Documents/Arduino/libraries/Time-master/Time.cpp",
+		"/Users/Johnny/Documents/Projects/unicef-ghana-arduino  /get_date.sh",
+		"/Users/Johnny/Documents/Projects/unicef-ghana-arduino  /date.txt",
+		"/Users/Johnny/Documents/Arduino/libraries/Time-master/library.properties",
+		"/Users/Johnny/Documents/Arduino/ahrs/ahrs.ino",
+		"/Users/Johnny/Documents/Arduino/libraries/Adafruit_LSM9DS0/Adafruit_LSM9DS0.cpp",
+		"/Users/Johnny/Documents/Arduino/libraries/SPI-master/SPI.h",
+		"/Users/Johnny/Documents/Arduino/libraries/Adafruit_LSM9DS0/Adafruit_LSM9DS0.h",
+		"/Users/Johnny/Documents/Projects/upm/src/lsm9ds0/lsm9ds0.hpp",
+		"/Users/Johnny/Documents/Projects/upm/src/lsm9ds0/lsm9ds0.cxx",
+		"/Users/Johnny/Documents/Projects/LSM9DS0_Breakout/Libraries/Arduino/src/SFE_LSM9DS0.h",
+		"/Users/Johnny/Downloads/SPI-master/SPI.h",
+		"/Users/Johnny/Documents/Projects/LSM9DS0_Breakout/Libraries/Arduino/src/SFE_LSM9DS0.cpp",
+		"/Users/Johnny/Documents/Projects/edison-ahrs/ahrs.cxx",
+		"/Users/Johnny/Documents/Arduino/libraries/SPI-master/SPI 2.h",
+		"/Users/Johnny/Downloads/SPI-master/SPI.cpp",
+		"/Users/Johnny/Documents/Projects/LSM9DS0_Breakout/Libraries/Arduino/examples/SparkFun_LSM9DS0_AHRS/SparkFun_LSM9DS0_AHRS.ino",
+		"/Users/Johnny/Documents/Projects/edison-unicef-test/package.json",
+		"/Users/Johnny/Documents/Projects/edison-unicef-test/app.js",
+		"/Users/Johnny/Documents/Projects/edison-unicef-module-monitoring/old.js",
+		"/Users/Johnny/Documents/Projects/edison-ahrs/CMakeLists.txt",
+		"/Users/Johnny/Documents/Projects/edison-ahrs/jsupm_ahrs.i",
+		"/Users/Johnny/Documents/Projects/edison-ahrs/javaupm_ahrs.i",
+		"/Users/Johnny/Documents/Projects/upm/src/lsm9ds0_ahrs/javaupm_lsm9ds0.i",
+		"/Users/Johnny/Documents/Projects/upm/src/lsm9ds0/jsupm_lsm9ds0.i",
+		"/Users/Johnny/Documents/Projects/upm/src/lsm9ds0_ahrs/lsm9ds0.hpp",
+		"/Users/Johnny/Documents/Projects/edison-unicef-module-monitoring/edison-unicef-module-monitoring.xdk",
+		"/Users/Johnny/Documents/Projects/edison-unicef-module-monitoring/edison-unicef-module-monitoring.xdke",
+		"/Users/Johnny/Documents/Projects/webvr-polyfill/webvr-polyfill/src/util.js",
+		"/Users/Johnny/Documents/Projects/webvr-polyfill/webvr-polyfill/build/webvr-polyfill.js",
+		"/Users/Johnny/Documents/Projects/webvr-polyfill/webvr-polyfill/src/sensor-fusion/complementary-filter.js",
+		"/Users/Johnny/Documents/Projects/webvr-polyfill/webvr-polyfill/README.md",
+		"/Users/Johnny/Documents/Projects/edison-ahrs/ahrs.hpp",
+		"/Users/Johnny/Documents/Projects/upm/src/lsm9ds0_ahrs/lsm9ds0.cxx",
+		"/Users/Johnny/Documents/Projects/edison-ahrs/pyupm_ahrs.i"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 133.0,
+		"where_history":
+		[
+			"/Users/Johnny/Documents/Projects/city-accelerator-website",
+			"/Users/Johnny/Documents/Projects/edison-unicef-module-monitoring,/Users/Johnny/Documents/Projects/edison-unicef-module-init,/Users/Johnny/Documents/Projects/edison-unicef-downloader",
+			"/Users/Johnny/Documents/Projects/edison-unicef-module-monitoring,/Users/Johnny/Documents/Projects/edison-unicef-module-init,/Users/Johnny/Documents/Projects/LSM9DS0_Breakout",
+			"/Users/Johnny/Documents/Projects/edison-unicef-module-monitoring,/Users/Johnny/Documents/Projects/edison-unicef-module-init",
+			"/Users/Johnny/Documents/Projects/edison-unicef-module-monitoring,/Users/Johnny/Documents/Projects/webvr-polyfill/webvr-polyfill",
+			"/Users/Johnny/Documents/Projects/edison-unicef-module-monitoring",
+			"/Users/Johnny/Documents/Projects/emerging-citizens, -*/Users/Johnny/Documents/Projects/emerging-citizens/node_modules/*, -*/Users/Johnny/Documents/Projects/emerging-citizens/public/bower_components/*, -*/Users/Johnny/Documents/Projects/emerging-citizens/public/release/*, -*/Users/Johnny/Documents/Projects/emerging-citizens/Static/*",
+			"/Users/Johnny/Documents/Projects/emerging-citizens, -*/Users/Johnny/Documents/Projects/emerging-citizens/node_modules/*, -*/Users/Johnny/Documents/Projects/emerging-citizens/public/bower_components/*, -*/Users/Johnny/Documents/Projects/emerging-citizens/public/release/*, -*/Users/Johnny/Documents/Projects/emerging-citizens/Static/*, -*.css",
+			"/Users/Johnny/Documents/Projects/emerging-citizens",
+			"/Users/Johnny/Documents/Projects/emerging-citizens, -*/Users/Johnny/Documents/Projects/emerging-citizens/node_modules/*, -*/Users/Johnny/Documents/Projects/emerging-citizens/public/bower_components/*, -*/Users/Johnny/Documents/Projects/emerging-citizens/public/release/*, -*/Users/Johnny/Documents/Projects/emerging-citizens/Static/*, -*.css",
+			"/Users/Johnny/Documents/Projects/emerging-citizens, -*/Users/Johnny/Documents/Projects/emerging-citizens/node_modules/*, -*/Users/Johnny/Documents/Projects/emerging-citizens/public/bower_components/*, -*/Users/Johnny/Documents/Projects/emerging-citizens/public/release/*, -*/Users/Johnny/Documents/Projects/emerging-citizens/Static/*",
+			"/Users/Johnny/Documents/Projects/emerging-citizens, -*/Users/Johnny/Documents/Projects/emerging-citizens/node_modules/*, -*/Users/Johnny/Documents/Projects/emerging-citizens/public/bower_components/*, -*/Users/Johnny/Documents/Projects/emerging-citizens/public/release/*",
+			"/Users/Johnny/Documents/Projects/emerging-citizens, -*/Users/Johnny/Documents/Projects/emerging-citizens/node_modules/*, -*/Users/Johnny/Documents/Projects/emerging-citizens/public/bower_components/* ",
+			"/Users/Johnny/Documents/Projects/emerging-citizens/node_modules/keystone/lib/core, ",
+			"/Users/Johnny/Documents/Projects/emerging-citizens/node_modules/keystone, ",
+			"/Users/Johnny/Documents/Projects/emerging-citizens/node_modules/keystone, -*/Users/Johnny/Documents/Projects/emerging-citizens/node_modules/*, -*/Users/Johnny/Documents/Projects/emerging-citizens/public/bower_components/*",
+			"/Users/Johnny/Documents/Projects/emerging-citizens/, -*/Users/Johnny/Documents/Projects/emerging-citizens/node_modules/*, -*/Users/Johnny/Documents/Projects/emerging-citizens/public/bower_components/*",
+			"/Users/Johnny/Documents/Projects/emerging-citizens/, *.scss, -*/Users/Johnny/Documents/Projects/emerging-citizens/node_modules/*, -*/Users/Johnny/Documents/Projects/emerging-citizens/public/bower_components/*",
+			"/Users/Johnny/Documents/Projects/emerging-citizens/, -*/Users/Johnny/Documents/Projects/emerging-citizens/node_modules/*, -*/Users/Johnny/Documents/Projects/emerging-citizens/public/bower_components/*",
+			"/Users/Johnny/Documents/Projects/emerging-citizens/, -*/Users/Johnny/Documents/Projects/emerging-citizens/node_modules/*",
+			"/Users/Johnny/Documents/Projects/EL-Website/, -*/Users/Johnny/Documents/Projects/EL-Website/node_modules/*",
+			"/Users/Johnny/Documents/Projects/EL-Website/, -*//Users/Johnny/Documents/Projects/EL-Website/node_modules/*",
+			"/Users/Johnny/Documents/Projects/EL-Website/, *.js, *.scss",
+			"/Users/Johnny/Documents/Projects/EL-Website/cmp/node_modules/keystone, *.js, *.scss",
+			"/Users/Johnny/Documents/Projects/EL-Website/, *-/Users/Johnny/Documents/Projects/EL-Website/node_modules/*, *.js, *.scss",
+			"/Users/Johnny/Documents/Projects/EL-Website/, *.js, *.scss",
+			"/Users/Johnny/Documents/Projects/EL-Website/, *.js",
+			"/Users/Johnny/Documents/Projects/EL-Website/node_modules/keystone, *.js",
+			"/Users/Johnny/Documents/Projects/EL-Website/, -*/Users/Johnny/Documents/Projects/EL-Website/node_modules/*, *.js, -*.min.js",
+			"/Users/Johnny/Documents/Projects/EL-Website/, -*/Users/Johnny/Documents/Projects/EL-Website/node_modules/*, *.js",
+			"/Users/Johnny/Documents/Projects/EL-Website/, -*/Users/Johnny/Documents/Projects/EL-Website/node_modules/* ",
+			"/Users/Johnny/Documents/Projects/EL-Website/, -*/Users/Johnny/Documents/Projects/EL-Website/node_modules/* ,*.hbs",
+			"/Users/Johnny/Documents/Projects/EL-Website/, -*/Users/Johnny/Documents/Projects/EL-Website/node_modules/* ,*.scss, *.css, -*.min.css",
+			"/Users/Johnny/Documents/Projects/EL-Website/, -*/Users/Johnny/Documents/Projects/EL-Website/node_modules/* ,*.scss, *.css, *.min.css",
+			"/Users/Johnny/Documents/Projects/EL-Website/, -*/Users/Johnny/Documents/Projects/EL-Website/node_modules/* ,*.scss, *.css",
+			"/Users/Johnny/Documents/Projects/EL-Website/, -*/Users/Johnny/Documents/Projects/EL-Website/node_modules/* ,*.scss",
+			"/Users/Johnny/Documents/Projects/EL-Website/, -*/Users/Johnny/Documents/Projects/EL-Website/node_modules/* ,*.js",
+			"/Users/Johnny/Documents/Projects/EL-Website/, -*/Users/Johnny/Documents/Projects/EL-Website/node_modules/* ,*.scss",
+			"/Users/Johnny/Documents/Projects/EL-Website/node_modules/keystone ,*.js",
+			"/Users/Johnny/Documents/Projects/EL-Website, -*/Users/Johnny/Documents/Projects/EL-Website/node_modules/* ,*.js",
+			"/Users/Johnny/Documents/Projects/EL-Website, -*/Users/Johnny/Documents/Projects/EL-Website/node_modules/* ,*.scss",
+			"/Users/Johnny/Documents/Projects/EL-Website, -*/Users/Johnny/Documents/Projects/EL-Website/node_modules/* ,*.scsss",
+			"/Users/Johnny/Documents/Projects/EL-Website, -*/Users/Johnny/Documents/Projects/EL-Website/node_modules/* ,*.js, *.hbs",
+			"/Users/Johnny/Documents/Projects/EL-Website, -*/Users/Johnny/Documents/Projects/EL-Website/node_modules/* ,*.js",
+			"/Users/Johnny/Documents/Projects/EL-Website, -*/Users/Johnny/Documents/Projects/EL-Website/node_modules/*",
+			"/Users/Johnny/Documents/Projects/EL-Website, -*/Users/Johnny/Documents/Projects/EL-Website/node_modules/*, *.scss, *.css",
+			"/Users/Johnny/Documents/Projects/EL-Website, -*/Users/Johnny/Documents/Projects/EL-Website/node_modules/*, *.scss",
+			"/Users/Johnny/Documents/Projects/EL-Website, -*/Users/Johnny/Documents/Projects/EL-Website/node_modules/*, *.scss, *.css",
+			"/Users/Johnny/Documents/Projects/EL-Website, -*/Users/Johnny/Documents/Projects/EL-Website/node_modules/*, *.scss",
+			"/Users/Johnny/Documents/Projects/EL-Website/node_modules/keystone, -*/Users/Johnny/Documents/Projects/EL-Website/node_modules/*, *.scss",
+			"/Users/Johnny/Documents/Projects/EL-Website/node_modules/keystone, -*/Users/Johnny/Documents/Projects/EL-Website/node_modules/*, *.s'css",
+			"/Users/Johnny/Documents/Projects/EL-Website/node_modules/keystone, -*/Users/Johnny/Documents/Projects/EL-Website/node_modules/*, *.css",
+			"/Users/Johnny/Documents/Projects/EL-Website/node_modules/keystone, *.js",
+			"/Users/Johnny/Documents/Projects/EL-Website/, -*/Users/Johnny/Documents/Projects/EL-Website/node_modules/*",
+			"/Users/Johnny/Documents/Projects/EL-Website/, -*/Users/Johnny/Documents/Projects/EL-Website/node_modules/*, *.js",
+			"/Users/Johnny/Documents/Projects/EL-Website/, -*/Users/Johnny/Documents/Projects/EL-Website/node_modules/*",
+			"/Users/Johnny/Documents/Projects/EL-Website/, -*/Users/Johnny/Documents/Projects/EL-Website/node_modules/*, *.hbs",
+			"/Users/Johnny/Documents/Projects/EL-Website/, -*/Users/Johnny/Documents/Projects/EL-Website/node_modules/*",
+			"/Users/Johnny/Documents/Projects/EL-Website/",
+			"/Users/Johnny/Documents/Projects/EL-Website/, *.js",
+			"/Users/Johnny/Documents/Projects/EL-Website/, *.hbs",
+			"/Users/Johnny/Documents/Projects/EL-Website/",
+			"/Users/Johnny/Documents/Projects/EL-Website/, *.hbs",
+			"/Users/Johnny/Documents/Projects/EL-Website/node_modules/keystone/, *.js",
+			"/Users/Johnny/Documents/Projects/EL-Website/, /Users/Johnny/Documents/Projects/EL-Website/node_modules/",
+			"/Users/Johnny/Documents/Projects/EL-Website/, -*/Users/Johnny/Documents/Projects/EL-Website/node_modules/*",
+			"/Users/Johnny/Documents/Projects/sydjs-site/, -*/Users/Johnny/Documents/Projects/sydjs-site/node_modules/*",
+			"/Users/Johnny/Documents/Projects/sydjs-site/",
+			"/Users/Johnny/Documents/Projects/EL-Website/",
+			"/Users/Johnny/Documents/Projects/EL-Website, -*/node_modules/*",
+			"/Users/Johnny/Documents/Projects/EL-Website, -*/node_modules",
+			"/Users/Johnny/Documents/Projects/EL-Website",
+			"/Users/Johnny/Documents/Projects/EL-Website/models",
+			"/Users/Johnny/Documents/Projects/EL-Website/routes",
+			"/Users/Johnny/Documents/Projects/EL-Website/views",
+			"/Users/Johnny/Documents/Projects/EL-Website/views, *.js",
+			"/Users/Johnny/Documents/Projects/EL-Website, *.js",
+			"/Users/Johnny/Documents/Projects/EL-Website, *.scss",
+			"/Users/Johnny/Documents/Projects/EL-Website, *.scss, *.css",
+			"/Users/Johnny/Documents/Projects/EL-Website, *.scss",
+			"/Users/Johnny/Documents/Projects/EL-Website",
+			"/Users/Johnny/Documents/Projects/EL-Website, *.scss",
+			"/Users/Johnny/Documents/Projects/EL-Website",
+			"/Users/Johnny/Documents/Projects/EL-Website-test",
+			"/Users/Johnny/Documents/Projects/EL-Website-test, *.json",
+			"/Users/Johnny/Documents/Projects/EL-Website, *.js,<open folders>",
+			"/Users/Johnny/Documents/Projects/EL-Website, *.js",
+			"/Users/Johnny/Documents/Projects/WorldBank-RBF/WorldBank-RBF/Assets, *.cs,/Users/Johnny/Documents/Projects/egl-homepage",
+			"/Users/Johnny/Documents/Projects/WorldBank-RBF/WorldBank-RBF/Assets, *.cs",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"768px",
+			"cbp-af-header",
+			"inner",
+			"filters",
+			"/modal",
+			"js-tool-printable",
+			"/modal",
+			"o-layout__item o-layout__item--6/12@large",
+			"modal",
+			"js-tool-modal",
+			"data-linked-step",
+			"linked-step",
+			"data-linked-step",
+			"js-tool-more",
+			"see more",
+			"> modal",
+			"c-summary-block__title",
+			"card-mini",
+			"c-card__icon",
+			"card-intro",
+			"js-tool-sidebar-content",
+			"Roadmap Activities",
+			"fonts.css",
+			"categorize",
+			"guideSidebar",
+			"guide_section",
+			"guideSingle",
+			"resultGuide",
+			"> card",
+			"> crd",
+			"c-card__inner",
+			"> modal",
+			"field-scan",
+			"modal",
+			"Why It's Helpful",
+			"contrast",
+			">\n",
+			"toolkit",
+			"toolkitpages",
+			"toolkit pages",
+			"checkData",
+			"priorPitch",
+			"saveDataInterval",
+			"serialNumData",
+			"pushButtonLight",
+			"moduleId",
+			"gyroAccelCompass",
+			"/status",
+			"Unable to get status for motion",
+			"timeLeft",
+			",",
+			"eventId",
+			"strDataCsv",
+			"pushButtonLight",
+			"serial.txt",
+			"moduleId",
+			"Module ID",
+			"app_downloader_repo",
+			"getStatus",
+			"placeholderSelector",
+			"start",
+			"systemctl ",
+			"syncTime",
+			"execute",
+			"mraa",
+			"pushButtonLight",
+			"mraa",
+			"pushButtonLight",
+			"mraa",
+			"syncTime",
+			"serverTime",
+			"unixtime",
+			"serial_number",
+			"serialPort",
+			"logger",
+			"!!!!!!!!!!!!!!!!!! NO TOUCH SENSOR !!!!!!!!!!!!!!!!",
+			"dateTimeStr.substring(dashIndex+1, dashIndex2)",
+			"dateStr",
+			"setTime",
+			"reboot_count_file",
+			"WORKING_DIR",
+			"            \n",
+			"downloader.log",
+			"Logging to file",
+			"dataFileName",
+			"sensor_data",
+			"strDataCsv",
+			"t.",
+			"t",
+			"battery-voltage",
+			"battery",
+			"MONITORING_PORT",
+			"MONITORING_PORTT",
+			"8080",
+			"scriptsPath",
+			"reboot_count_file",
+			"/scripts",
+			"reboot_count_file",
+			"unicef-init",
+			"startAp",
+			"stopAccessPoint",
+			"stopAp",
+			"scriptsPath",
+			"startAccessPoint",
+			"durationInHorizontalPosition",
+			"edison-unicef-project",
+			"/apps",
+			"app_monitoring_version",
+			"serial_number",
+			"ap_ssid",
+			"unicef_",
+			"edison-unicef-project",
+			"edison-unicef-project-master",
+			"Module ID",
+			"unicef.local",
+			"startAccessPoint",
+			"durationInHorizontalPosition",
+			"sdCard",
+			"setupMonitoring",
+			"pushButtonLight",
+			"time",
+			"date",
+			"goToSleep",
+			"appState",
+			"ledButton",
+			"gyroInterruptCallBack",
+			"gyrocsopeInterrupt",
+			"DIR_IN"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"SAVE_DATA_INTERVAL",
+			" +",
+			"dateTimeStr",
+			"\"",
+			"edison-unicef-module-monitoring",
+			"",
+			"https://res.cloudinary.com/engagement-lab-home",
+			"playLink",
+			"content",
+			"$background-htyi",
+			"'",
+			",'",
+			",",
+			"errorBox",
+			"btn-submit-code",
+			"height",
+			"voteId",
+			"v1475766940",
+			"f_auto",
+			"roundNumber",
+			"ease:Elastic.easeOut",
+			"{{> ",
+			"_session_restarting",
+			"showErrorModal",
+			"error-modal",
+			"lobby",
+			"isPrivate",
+			"fontSize",
+			"topFontSize",
+			"txt",
+			"f",
+			"playerSubmission",
+			"{{!-- debugger; --}}",
+			"Engagement Lab, 2016",
+			"_current_player_cap",
+			"'article:valid'",
+			"updateGameContent(eventData);",
+			"_current_player_index",
+			"submissionsAnim",
+			"MemeGame",
+			"MemeTopic",
+			"_group_socket",
+			"var ",
+			"playersSubmitted",
+			"Common",
+			"groupSocket",
+			"h2",
+			".",
+			"h1",
+			"allHashtags",
+			"_current_players",
+			"_current_submissions",
+			"WikiLink",
+			"let",
+			"allArticles",
+			"removeDom",
+			"ifeq gameType",
+			"_core/",
+			"'use strict';",
+			"this._currentSubmissions",
+			"(html) =>",
+			"",
+			"this._currentPlayers",
+			"_real_hashtag",
+			"_votes",
+			"_players_submitted",
+			"_current_submissions",
+			"_current_round",
+			"_current_tweet",
+			"_config",
+			"_game_timeout",
+			"_game_session",
+			"",
+			"_currentPlayers",
+			"Common.prototype.",
+			"_currentPlayers",
+			"_current_players",
+			"lastEventId",
+			"currentPlayer",
+			"sessionStorage",
+			"thisPlayer",
+			"home-page",
+			"HomePage",
+			"addClass('game-bg",
+			"ecplay.org",
+			"GROUP_ID",
+			"PLAYERS_ID",
+			".to(GROUP-ID",
+			".to(PLAYERS-ID",
+			"{{> group/",
+			"group/",
+			"GroupView",
+			"partials/group/",
+			"-group",
+			"GROUP",
+			"PLAYERS)",
+			"col-sm-",
+			"console.",
+			"{{!-- style=\"visibility: hidden; --}}",
+			"{{-- style=\"visibility: hidden; --}}",
+			"Avenir",
+			"otf",
+			"ComingSoon",
+			"_ALL_HASHTAGS",
+			"_ALL_TWEETS",
+			"_CURRENT_SUBMISSIONS",
+			"hashtagsAnim",
+			"player-static",
+			"player-background",
+			"ShowSubmissions",
+			"class=\"nameplate\"",
+			"class=\"icon",
+			"",
+			"Templates.Load('partials/",
+			"$prop",
+			"$duration",
+			"logger.info",
+			"Session.Get",
+			"_GAME_SESSION",
+			"GameConfig",
+			"ContentCategory",
+			"HashtagCategory",
+			"Templates.Load('player/",
+			"_CURRENT_HASHTAGS",
+			"_ALL_HASHTAGS",
+			"HashtagGame",
+			"Templates",
+			"_HASHTAGS"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "public/stylesheets/style.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3767,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3381,
+								3381
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2418.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "public/stylesheets/components.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1681,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								767,
+								767
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "views/index.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7877,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2390,
+								3133
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 522.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "public/stylesheets/nav.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 454,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35,
+								19
+							]
+						],
+						"settings":
+						{
+							"auto_name": "@media screen and (max-width: 768px) {",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 68.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.1479328308.648326":
+	{
+		"height": 110.0
+	},
+	"output.build|/Users/Johnny/Documents/Arduino/ahrs|1479328291.445582":
+	{
+		"height": 110.0
+	},
+	"output.build|/Users/Johnny/Documents/Arduino/ahrs|1479328358.845748":
+	{
+		"height": 110.0
+	},
+	"output.exec":
+	{
+		"height": 110.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 98.0
+	},
+	"output.upload|/Users/Johnny/Documents/Arduino/ahrs|1479328368.658115":
+	{
+		"height": 110.0
+	},
+	"output.variable_get":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "site.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"casestudycard",
+				"templates/partials/caseStudyCard.hbs"
+			],
+			[
+				"cases",
+				"routes/views/caseStudies.js"
+			],
+			[
+				"card-intro",
+				"templates/partials/components/tool/card-intro.hbs"
+			],
+			[
+				"acti",
+				"models/Activity.js"
+			],
+			[
+				"about",
+				"models/About.js"
+			],
+			[
+				"nav.",
+				"templates/partials/nav.hbs"
+			],
+			[
+				"guidesidebar",
+				"templates/partials/guideSidebar.hbs"
+			],
+			[
+				"guide-si",
+				"templates/views/guide-single.hbs"
+			],
+			[
+				"guidesing",
+				"routes/views/guideSingle.js"
+			],
+			[
+				"guidehom",
+				"routes/views/guideHome.js"
+			],
+			[
+				"guideho",
+				"templates/views/guideHome.hbs"
+			],
+			[
+				"ame.hs",
+				"templates/views/game.hbs"
+			],
+			[
+				"grid.",
+				"templates/partials/tool/mvp/grid.hbs"
+			],
+			[
+				"routes/ind",
+				"routes/index.js"
+			],
+			[
+				"toolkithom",
+				"templates/views/toolkitHome.hbs"
+			],
+			[
+				"start",
+				"unicef-ghana-arduino  /scripts/startup.sh"
+			],
+			[
+				"main.",
+				"edison-unicef-downloader/public/javascripts/main.js"
+			],
+			[
+				"updaterebootcount",
+				"edison-unicef-module-init/scripts/updateRebootCount.sh"
+			],
+			[
+				"boot",
+				"edison-unicef-module-init/scripts/boot.sh"
+			],
+			[
+				"ini",
+				"edison-unicef-module-init/init.sh"
+			],
+			[
+				"startap",
+				"edison-unicef-module-init/scripts/startAp.sh"
+			],
+			[
+				"imu",
+				"unicef-ghana-arduino  /maintenance/imu.js"
+			],
+			[
+				"htyi",
+				"Client/events/group/htyi.js"
+			],
+			[
+				"wwdmm.js",
+				"All/public/js/events/group/wwdmm.js"
+			],
+			[
+				"wwdmm",
+				"Client/events/wwdmm.js"
+			],
+			[
+				"player_ba",
+				"Partials/group/player_badge.hbs"
+			],
+			[
+				"player_bad",
+				"Partials/group/player_badge.hbs"
+			],
+			[
+				"glob",
+				"Partials/script/global.hbs"
+			],
+			[
+				"player",
+				"Partials/script/player_events.hbs"
+			],
+			[
+				"waiting.hbs",
+				"All/templates/partials/player/waiting.hbs"
+			],
+			[
+				"waiti",
+				"Partials/player/waiting.hbs"
+			],
+			[
+				"css",
+				"Partials/css.hbs"
+			],
+			[
+				"game_na",
+				"Partials/game_nav.hbs"
+			],
+			[
+				"homepage.scs",
+				"All/public/styles/_core/homepage.scss"
+			],
+			[
+				"core.s",
+				"Styles/core.scss"
+			],
+			[
+				"foo",
+				"Partials/shared/footer.hbs"
+			],
+			[
+				"global",
+				"Partials/script/global.hbs"
+			],
+			[
+				"wikigee",
+				"Client/events/wikigeeks.js"
+			],
+			[
+				"base",
+				"All/templates/layouts/base.hbs"
+			],
+			[
+				"game_",
+				"Partials/game_nav.hbs"
+			],
+			[
+				"mixins",
+				"All/public/styles/_core/mixins.scss"
+			],
+			[
+				"foot",
+				"Partials/shared/footer.hbs"
+			],
+			[
+				"homep",
+				"Styles/_core/homepage.scss"
+			],
+			[
+				"base.",
+				"All/templates/layouts/base.hbs"
+			],
+			[
+				"player_log",
+				"Partials/script/player_logic.hbs"
+			],
+			[
+				"mixin",
+				"Styles/_core/mixins.scss"
+			],
+			[
+				"mixi",
+				"Styles/_core/mixins.scss"
+			],
+			[
+				"game",
+				"Partials/game_nav.hbs"
+			],
+			[
+				"core.",
+				"Styles/core.scss"
+			],
+			[
+				"font",
+				"Styles/_core/fonts.scss"
+			],
+			[
+				"404",
+				"All/templates/views/errors/404.hbs"
+			],
+			[
+				"css.",
+				"Partials/css.hbs"
+			],
+			[
+				"vari",
+				"Styles/_core/variables.scss"
+			],
+			[
+				"mi",
+				"All/public/styles/_core/mixins.scss"
+			],
+			[
+				"na.hbs",
+				"All/templates/partials/nav.hbs"
+			],
+			[
+				"gllob",
+				"Partials/script/global.hbs"
+			],
+			[
+				"play.js",
+				"All/routes/views/game/play.js"
+			],
+			[
+				"develop",
+				"Partials/script/development.hbs"
+			],
+			[
+				"core.sc",
+				"Styles/core.scss"
+			],
+			[
+				"gamesessoin",
+				"All/routes/api/gamesession.js"
+			],
+			[
+				"globa",
+				"Partials/script/global.hbs"
+			],
+			[
+				"player_",
+				"Partials/script/player_logic.hbs"
+			],
+			[
+				"wiki.j",
+				"Library/games/Wiki.js"
+			],
+			[
+				"globl",
+				"Partials/script/global.hbs"
+			],
+			[
+				"wikigeeks",
+				"Client/events/group/wikigeeks.js"
+			],
+			[
+				"results.hbs",
+				"Partials/group/htyi/results.hbs"
+			],
+			[
+				"groupvie",
+				"Styles/_wiki/groupview.scss"
+			],
+			[
+				"prod",
+				"Partials/script/production.hbs"
+			],
+			[
+				"nosle",
+				"All/public/bower_components/nosleep/NoSleep.js"
+			],
+			[
+				"player_l",
+				"Partials/script/player_logic.hbs"
+			],
+			[
+				"player_eve",
+				"Partials/script/player_events.hbs"
+			],
+			[
+				"devle",
+				"Partials/includes/development.hbs"
+			],
+			[
+				"player.hbs",
+				"All/templates/views/game/player.hbs"
+			],
+			[
+				"player_lohg",
+				"Partials/script/player_logic.hbs"
+			],
+			[
+				"devel",
+				"Partials/includes/development.hbs"
+			],
+			[
+				"miix",
+				"Styles/_core/mixins.scss"
+			],
+			[
+				"glo",
+				"Partials/script/global.hbs"
+			],
+			[
+				"player_lo",
+				"Partials/script/player_logic.hbs"
+			],
+			[
+				"tutor",
+				"Partials/group/tutorial.hbs"
+			],
+			[
+				"tutori",
+				"Partials/group/tutorial.hbs"
+			],
+			[
+				"layer_ev",
+				"Partials/script/player_events.hbs"
+			],
+			[
+				"tut",
+				"Partials/group/tutorial.hbs"
+			],
+			[
+				"lobb",
+				"Partials/group/meme/lobby.hbs"
+			],
+			[
+				"pl",
+				"Partials/script/player_events.hbs"
+			],
+			[
+				"player_ev",
+				"Partials/script/player_events.hbs"
+			],
+			[
+				"players_grid.",
+				"Partials/group/meme/players_grid.hbs"
+			],
+			[
+				"wikigk",
+				"Client/events/wikigeeks.js"
+			],
+			[
+				"player_grid",
+				"Partials/group/meme/players_grid.hbs"
+			],
+			[
+				"voting",
+				"Partials/group/meme/voting.hbs"
+			],
+			[
+				"playervie",
+				"Styles/_wwdmm/playerview.scss"
+			],
+			[
+				"gro",
+				"Styles/_wwdmm/groupview.scss"
+			],
+			[
+				"pla",
+				"Partials/group/meme/players_grid.hbs"
+			],
+			[
+				"meme",
+				"Library/games/Meme.js"
+			],
+			[
+				"creat",
+				"Partials/group/meme/create.hbs"
+			],
+			[
+				"players_grid",
+				"Partials/group/meme/players_grid.hbs"
+			],
+			[
+				"base.hb",
+				"All/templates/layouts/base.hbs"
+			],
+			[
+				"bas",
+				"templates/layouts/base.hbs"
+			],
+			[
+				"game.hbs",
+				"templates/views/group/game.hbs"
+			],
+			[
+				"player_event",
+				"templates/partials/script/player_events.hbs"
+			],
+			[
+				"players_column",
+				"templates/partials/group/players_column.hbs"
+			],
+			[
+				"groupview",
+				"templates/partials/script/groupview_events.hbs"
+			],
+			[
+				"player_loh",
+				"templates/partials/script/player_logic.hbs"
+			],
+			[
+				"comm",
+				"lib/games/Common.js"
+			],
+			[
+				"dev",
+				"templates/partials/script/development.hbs"
+			],
+			[
+				"fonts",
+				"public/styles/_core/fonts.scss"
+			],
+			[
+				"wik",
+				"lib/games/Wiki.js"
+			],
+			[
+				"hty",
+				"public/js/events/htyi.js"
+			],
+			[
+				"groupv",
+				"templates/partials/script/groupview_events.hbs"
+			],
+			[
+				"grou_event",
+				"templates/partials/script/groupview_events.hbs"
+			],
+			[
+				"player_e",
+				"templates/partials/script/player_events.hbs"
+			],
+			[
+				"com",
+				"lib/games/Common.js"
+			],
+			[
+				"produc",
+				"templates/partials/script/production.hbs"
+			],
+			[
+				"wiki",
+				"lib/games/Wiki.js"
+			],
+			[
+				"twe",
+				"templates/partials/player/htyi/tweet.hbs"
+			],
+			[
+				"tweet.",
+				"templates/partials/player/htyi/tweet.hbs"
+			],
+			[
+				"player.h",
+				"templates/views/game/player.hbs"
+			],
+			[
+				"playerview.s",
+				"public/styles/_wiki/playerview.scss"
+			],
+			[
+				"searc",
+				"templates/partials/player/wiki/search.hbs"
+			],
+			[
+				"wikige",
+				"public/js/events/wikigeeks.js"
+			],
+			[
+				"articl",
+				"templates/partials/group/wiki/article.hbs"
+			],
+			[
+				"wikigeek",
+				"public/js/events/group/wikigeeks.js"
+			],
+			[
+				"w",
+				"lib/games/Wiki.js"
+			],
+			[
+				"group",
+				"public/styles/_htyi/groupview.scss"
+			],
+			[
+				"va",
+				"public/styles/_core/variables.scss"
+			],
+			[
+				"va/",
+				"public/bower_components/jquery/src/var/arr.js"
+			],
+			[
+				"varia",
+				"public/styles/_core/variables.scss"
+			],
+			[
+				"meme.",
+				"lib/games/Meme.js"
+			],
+			[
+				"vot",
+				"templates/partials/player/meme/voting.hbs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 257.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,189 @@
+@import url("https://fonts.googleapis.com/css?family=Average");
+nav {
+  background-color: #728288 !important;
+  padding-right: 33% !important;
+  padding-left: 33% !important;
+  -moz-transition: all 0.4s ease;
+  -o-transition: all 0.4s ease;
+  -webkit-transition: all 0.4s ease;
+  transition: all 0.4s ease; }
+  @media (max-width: 480px) {
+    nav {
+      padding-right: 0 !important;
+      padding-left: 0 !important;
+      text-align: center; } }
+  nav h1 {
+    font-family: "Bazar";
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #FFB27A;
+    font-size: 4em;
+    margin: 0;
+    float: left;
+    -moz-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    -webkit-transition: all 0.4s ease;
+    transition: all 0.4s ease; }
+    @media (max-width: 480px) {
+      nav h1 {
+        margin-left: auto;
+        margin-right: auto; } }
+  nav a {
+    font-family: "secondary";
+    color: #fff;
+    font-weight: 700;
+    margin: 0 0 0 20px;
+    font-size: 3.4em;
+    -moz-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    -webkit-transition: all 0.4s ease;
+    transition: all 0.4s ease; }
+    nav a:hover {
+      color: #FFB27A;
+      text-decoration: none; }
+  nav #navbarCollapse {
+    margin-left: -12%; }
+
+nav.shrink {
+  min-height: 35px;
+  -webkit-box-shadow: -1px 10px 20px -5px #535d61;
+  -moz-box-shadow: -1px 10px 20px -5px #535d61;
+  box-shadow: -1px 10px 20px -5px #535d61; }
+  nav.shrink h1 {
+    display: inline-table;
+    font-size: 2em; }
+  nav.shrink a {
+    font-size: 2em; }
+  nav.shrink #navbarCollapse {
+    margin-left: 0; }
+
+@media screen and (max-width: 768px) {
+  .side-collapse-container {
+    width: 100%;
+    position: relative;
+    left: 0;
+    transition: left .4s; }
+  .side-collapse-container.out {
+    left: 200px; }
+  .side-collapse {
+    top: 50px;
+    bottom: 0;
+    left: 0;
+    width: 200px;
+    position: fixed;
+    overflow: hidden;
+    transition: width .4s; }
+  .side-collapse.in {
+    width: 0; } }
+
+@font-face {
+  font-family: "Bazar";
+  src: url("fonts/bazar/bazar.woff") format("woff"), url("fonts/bazar/bazar.eot?") format("eot"), url("fonts/bazar/bazar.svg#Bazar") format("svg"), url("fonts/bazar/bazar.ttf") format("truetype"); }
+
+@font-face {
+  font-family: "secondary";
+  src: url("fonts/secondary/secondary-regular-webfont.woff") format("woff"), url("fonts/secondary/secondary-regular-webfont.woff2") format("woff2"); }
+
+body, html {
+  font-size: 100%;
+  padding: 0;
+  margin: 0; }
+
+header {
+  font-family: "secondary";
+  font-size: 3em; }
+
+.clearfix {
+  clear: both; }
+
+.container {
+  padding-bottom: 10%; }
+
+#date {
+  text-align: center;
+  font-size: 3em;
+  font-family: "Bazar";
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto; }
+  @media (max-width: 480px) {
+    #date {
+      width: 100%; } }
+  #date .right {
+    color: #a5b9c0;
+    text-shadow: -1px 0 #a2a2a2, 0 1px #a2a2a2, 1px 0 #a2a2a2, 0 -1px #a2a2a2;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 400px;
+    float: right; }
+  #date img {
+    max-width: 350px;
+    max-height: 350px; }
+
+.clearfix:before {
+  content: " ";
+  display: table; }
+
+.clearfix:after {
+  content: " ";
+  display: table;
+  clear: both; }
+
+body {
+  font-family: 'Average', serif !important;
+  color: #47a3da;
+  font-size: 1em; }
+
+a {
+  color: #f0f0f0;
+  text-decoration: none; }
+  a:hover {
+    color: #000; }
+
+.container {
+  position: relative;
+  margin-top: 7em; }
+
+.bp-icon:after {
+  font-family: 'bpicons';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  text-align: center;
+  color: #47a3da;
+  -webkit-font-smoothing: antialiased; }
+
+.bp-icon-next:after {
+  content: "\e000"; }
+
+.bp-icon-drop:after {
+  content: "\e001"; }
+
+.bp-icon-archive:after {
+  content: "\e002"; }
+
+.bp-icon-about:after {
+  content: "\e003"; }
+
+.bp-icon-prev:after {
+  content: "\e004"; }
+
+.main > section:nth-child(even) {
+  background: #87cef8;
+  color: #fff; }
+
+.main section {
+  width: 90%;
+  margin: 0 auto; }
+  .main section:first-child > div {
+    padding-top: 0em; }
+  .main section p {
+    margin: 0;
+    padding: 1em 0;
+    font-size: 1em;
+    line-height: 1.5; }
+
+/*# sourceMappingURL=style.css.map */

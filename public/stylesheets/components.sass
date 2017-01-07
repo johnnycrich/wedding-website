@@ -1,0 +1,47 @@
+nav
+  background-color: #728288!important
+  padding-right: 33%!important
+  padding-left: 33%!important
+  @include transition(all 0.4s ease)
+  @include mobile-only
+    padding-right: 0!important
+    padding-left: 0!important
+    text-align: center
+    
+  h1
+    font-family: "Bazar"
+    text-transform: uppercase
+    letter-spacing: 4px
+    color: #FFB27A
+    font-size: 4em
+    margin: 0
+    float: left
+    @include transition(all 0.4s ease)
+    @include mobile-only
+      margin-left: auto
+      margin-right: auto
+  a
+    font-family: "secondary"
+    color: #fff
+    font-weight: 700
+    margin: 0 0 0 20px
+    font-size: 3.4em
+    &:hover
+      color: #FFB27A
+      text-decoration: none
+    @include transition(all 0.4s ease)
+  #navbarCollapse
+    margin-left: -12%
+
+nav.shrink
+  min-height: 35px
+  -webkit-box-shadow: -1px 10px 20px -5px rgba(83,93,97,1)
+  -moz-box-shadow: -1px 10px 20px -5px rgba(83,93,97,1)
+  box-shadow: -1px 10px 20px -5px rgba(83,93,97,1)
+  h1
+    display: inline-table
+    font-size: 2em
+  a
+    font-size: 2em
+  #navbarCollapse
+      margin-left: 0
