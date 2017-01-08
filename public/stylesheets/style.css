@@ -17,7 +17,7 @@ nav {
     text-transform: uppercase;
     letter-spacing: 4px;
     color: #FFB27A;
-    font-size: 4em;
+    font-size: 3em;
     margin: 0;
     float: left;
     -moz-transition: all 0.4s ease;
@@ -115,11 +115,11 @@ header {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    height: 400px;
+    height: 225px;
     float: right; }
   #date img {
-    max-width: 350px;
-    max-height: 350px; }
+    max-width: 400px;
+    max-height: 400px; }
 
 .clearfix:before {
   content: " ";
