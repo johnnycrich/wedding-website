@@ -74,8 +74,8 @@
       </header> 
       <div class="main">
         <section>
-          Our wedding will take place in Boston on Saturday, October 21, 2017 at <a href="http://www.stceciliaboston.org">St. Cecilia's Parish</a> at 1pm, with a cocktail reception to follow at a TBA venue. Transportation will be provided to and from our reception.
-          <p>St. Cecilia's is located in Boston's bustling Back Bay neighborhood, and is within walking distance of numerous transit options.</p>
+          Our wedding will take place in Boston on Saturday, October 21, 2017 at 1pm at <a href="http://www.stceciliaboston.org">St. Cecilia's Parish</a>, which is located in Boston's bustling Back Bay neighborhood, and is within walking distance of numerous transit options.
+          <p>A cocktail reception will follow at Mayhew Wine Shop, opening this Spring in Boston's Fort Point district (exact time TBA). Transportation will be provided to and from our reception.</p>
           <div id="map"></div>
         </section>
       </div>
@@ -264,13 +264,13 @@
         }
       ];
       var ceremonyLoc = {lat: 42.346602, lng: -71.088498};
-      // var recepLoc = {lat: 42.3499807, lng: -71.050809};
+      var recepLoc = {lat: 42.3499807, lng: -71.050809};
       var map = new google.maps.Map(document.getElementById('map'), {
         mapTypeControlOptions: {
           mapTypeIds: ['mystyle']
         },
         zoom: 15,
-        center: {lat:42.3467319,lng:-71.0878662},
+        center: {lat:42.3488977,lng:-71.0684652},
         mapTypeId: 'mystyle'
       });
       map.mapTypes.set('mystyle', new google.maps.StyledMapType(myStyle, { name: 'Default' }));
@@ -280,11 +280,11 @@
         title: 'St. Cecilia\'s Parish',
         icon: 'images/church.png'
       });
-      // new google.maps.Marker({
-      //   position: recepLoc,
-      //   map: map,
-      //   icon: 'images/cocktail.png'
-      // });
+      new google.maps.Marker({
+        position: recepLoc,
+        map: map,
+        icon: 'images/cocktail.png'
+      });
     }
   </script>
   <script async defer
