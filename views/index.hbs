@@ -268,8 +268,30 @@
           ]
         }
       ];
-      var ceremonyLoc = {lat: 42.346602, lng: -71.088498};
-      var recepLoc = {lat: 42.3499883, lng: -71.0508885};
+      var ceremonyLoc = {lat: 42.3465029, lng: -71.08616189999998};
+      var recepLoc = {lat: 42.350019, lng: -71.050473};
+      var infowindow = new google.maps.InfoWindow();
+      var geocoder = new google.maps.Geocoder();
+      
+      function geocodePosition(pos, infowindow, marker) {
+        geocoder.geocode({
+          latLng: pos
+        }, function(responses) {
+          if (responses && responses.length > 0) {
+            var address = responses[0].formatted_address;      
+            // updateMarkerAddress(address);
+            infowindow.setContent('<div><strong>' + address + '</strong><br>');
+            infowindow.open(map, marker);
+
+          } else {
+            var msg = 'Cannot determine address at this location.';      
+            // updateMarkerAddress(msg);
+            infowindow.setContent('<div><strong>' + msg + '</strong><br>');
+            infowindow.open(map, marker);
+          }
+        });
+      } 
+
       var map = new google.maps.Map(document.getElementById('map'), {
         mapTypeControlOptions: {
           mapTypeIds: ['mystyle']
@@ -279,16 +301,23 @@
         mapTypeId: 'mystyle'
       });
       map.mapTypes.set('mystyle', new google.maps.StyledMapType(myStyle, { name: 'Default' }));
-      new google.maps.Marker({
+      var cerMark = new google.maps.Marker({
         position: ceremonyLoc,
         map: map,
         title: 'St. Cecilia\'s Parish',
         icon: 'images/001-church.png'
       });
-      new google.maps.Marker({
+      cerMark.addListener('click', function() {
+        geocodePosition(cerMark.getPosition(), infowindow, cerMark);
+      });
+      var recepMark = new google.maps.Marker({
         position: recepLoc,
         map: map,
         icon: 'images/002-beer.png'
+      });
+      recepMark.addListener('click', function() {
+        infowindow.setContent('<div><strong>20 Melcher St, Boston, MA 02210</strong><br>');
+        infowindow.open(map, recepMark);
       });
     }
   </script>
