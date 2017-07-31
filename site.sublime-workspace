@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"tra",
+				"travel"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
 				"mys",
 				"mystyle"
 			],
@@ -506,54 +514,44 @@
 			[
 				"to",
 				"toUpperCase"
-			],
-			[
-				"lower",
-				"lowerCaption"
-			],
-			[
-				"upper",
-				"upperCaption"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "public/stylesheets/style.sass",
+			"file": "/Users/Johnny/Documents/Projects/wedding-website/public/stylesheets/style.sass",
 			"settings":
 			{
-				"buffer_size": 3767,
+				"buffer_size": 1974,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "public/stylesheets/components.sass",
+			"file": "/Users/Johnny/Documents/Projects/wedding-website/views/index.hbs",
 			"settings":
 			{
-				"buffer_size": 1681,
+				"buffer_size": 12269,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "views/index.hbs",
+			"file": "/Users/Johnny/Documents/Projects/wedding-website/public/stylesheets/components.sass",
 			"settings":
 			{
-				"buffer_size": 7877,
+				"buffer_size": 1077,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "public/stylesheets/nav.scss",
+			"contents": "",
 			"settings":
 			{
-				"buffer_size": 454,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "@media screen and (max-width: 768px) {"
+				"buffer_size": 0,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -690,18 +688,23 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/Johnny/Dropbox/wedding-website",
-		"/Users/Johnny/Dropbox/wedding-website/public",
-		"/Users/Johnny/Dropbox/wedding-website/public/js",
-		"/Users/Johnny/Dropbox/wedding-website/public/stylesheets",
-		"/Users/Johnny/Dropbox/wedding-website/routes",
-		"/Users/Johnny/Dropbox/wedding-website/views"
+		"/Users/Johnny/Documents/Projects/wedding-website",
+		"/Users/Johnny/Documents/Projects/wedding-website/public",
+		"/Users/Johnny/Documents/Projects/wedding-website/public/stylesheets",
+		"/Users/Johnny/Documents/Projects/wedding-website/routes",
+		"/Users/Johnny/Documents/Projects/wedding-website/views"
 	],
 	"file_history":
 	[
+		"/Users/Johnny/Dropbox/wedding-website/public/stylesheets/style.sass",
+		"/Users/Johnny/Dropbox/wedding-website/views/index.hbs",
 		"/Users/Johnny/Dropbox/wedding-website/public/stylesheets/components.sass",
-		"/Users/Johnny/Dropbox/wedding-website/public/js/main.js",
 		"/Users/Johnny/Dropbox/wedding-website/public/stylesheets/mixins.scss",
+		"/Users/Johnny/Dropbox/wedding-website/public/js/jquery.smoothscroll.min.js",
+		"/Users/Johnny/Downloads/single-page-smooth-scroll-soure/index.php",
+		"/Users/Johnny/Dropbox/wedding-website/public/stylesheets/nav.scss",
+		"/Users/Johnny/Dropbox/wedding-website/routes/index.js",
+		"/Users/Johnny/Dropbox/wedding-website/public/js/main.js",
 		"/Users/Johnny/Dropbox/wedding-website/site.sublime-project",
 		"/Users/Johnny/Dropbox/test/views/error.hbs",
 		"/Users/Johnny/Dropbox/wedding-website/views/error.hbs",
@@ -710,7 +713,6 @@
 		"/Users/Johnny/Dropbox/wedding-website/.nvmrc",
 		"/Users/Johnny/Dropbox/wedding-website/public/stylesheets/style.css",
 		"/Users/Johnny/Dropbox/wedding-website/Gruntfile.js",
-		"/Users/Johnny/Dropbox/wedding-website/routes/index.js",
 		"/Users/Johnny/Dropbox/wedding-website/app.js",
 		"/Users/Johnny/Downloads/AnimatedHeader/css/component.css",
 		"/Users/Johnny/Downloads/AnimatedHeader/css/default.css",
@@ -821,12 +823,7 @@
 		"/Users/Johnny/Documents/Projects/edison-unicef-module-monitoring/edison-unicef-module-monitoring.xdk",
 		"/Users/Johnny/Documents/Projects/edison-unicef-module-monitoring/edison-unicef-module-monitoring.xdke",
 		"/Users/Johnny/Documents/Projects/webvr-polyfill/webvr-polyfill/src/util.js",
-		"/Users/Johnny/Documents/Projects/webvr-polyfill/webvr-polyfill/build/webvr-polyfill.js",
-		"/Users/Johnny/Documents/Projects/webvr-polyfill/webvr-polyfill/src/sensor-fusion/complementary-filter.js",
-		"/Users/Johnny/Documents/Projects/webvr-polyfill/webvr-polyfill/README.md",
-		"/Users/Johnny/Documents/Projects/edison-ahrs/ahrs.hpp",
-		"/Users/Johnny/Documents/Projects/upm/src/lsm9ds0_ahrs/lsm9ds0.cxx",
-		"/Users/Johnny/Documents/Projects/edison-ahrs/pyupm_ahrs.i"
+		"/Users/Johnny/Documents/Projects/webvr-polyfill/webvr-polyfill/build/webvr-polyfill.js"
 	],
 	"find":
 	{
@@ -934,6 +931,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"min",
+			";",
 			"768px",
 			"cbp-af-header",
 			"inner",
@@ -1059,9 +1058,7 @@
 			"goToSleep",
 			"appState",
 			"ledButton",
-			"gyroInterruptCallBack",
-			"gyrocsopeInterrupt",
-			"DIR_IN"
+			"gyroInterruptCallBack"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1069,6 +1066,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"",
 			"SAVE_DATA_INTERVAL",
 			" +",
 			"dateTimeStr",
@@ -1195,8 +1193,7 @@
 			"_CURRENT_HASHTAGS",
 			"_ALL_HASHTAGS",
 			"HashtagGame",
-			"Templates",
-			"_HASHTAGS"
+			"Templates"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -1207,24 +1204,24 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "public/stylesheets/style.sass",
+					"file": "/Users/Johnny/Documents/Projects/wedding-website/public/stylesheets/style.sass",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3767,
+						"buffer_size": 1974,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3381,
-								3381
+								881,
+								881
 							]
 						],
 						"settings":
@@ -1234,27 +1231,57 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2418.0,
+						"translation.y": 222.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "public/stylesheets/components.sass",
+					"file": "/Users/Johnny/Documents/Projects/wedding-website/views/index.hbs",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1681,
+						"buffer_size": 12269,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								767,
-								767
+								2783,
+								2783
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/Johnny/Documents/Projects/wedding-website/public/stylesheets/components.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1077,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25,
+								31
 							]
 						],
 						"settings":
@@ -1267,61 +1294,29 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "views/index.hbs",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 7877,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2390,
-								3133
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Handlebars/grammars/Handlebars.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 522.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "public/stylesheets/nav.scss",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 454,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								35,
-								19
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"auto_name": "@media screen and (max-width: 768px) {",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1378,7 +1373,7 @@
 	},
 	"output.exec":
 	{
-		"height": 110.0
+		"height": 122.0
 	},
 	"output.find_results":
 	{
@@ -1400,7 +1395,7 @@
 	"project": "site.sublime-project",
 	"replace":
 	{
-		"height": 46.0
+		"height": 68.0
 	},
 	"save_all_on_build": true,
 	"select_file":
